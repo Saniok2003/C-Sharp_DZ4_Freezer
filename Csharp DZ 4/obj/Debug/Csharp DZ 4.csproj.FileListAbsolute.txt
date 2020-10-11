@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\Csharp DZ 4\Csharp DZ 4\bin\Debug\Csharp DZ 4.exe.config
+C:\Users\Hp\source\repos\Csharp DZ 4\Csharp DZ 4\bin\Debug\Csharp DZ 4.exe
+C:\Users\Hp\source\repos\Csharp DZ 4\Csharp DZ 4\bin\Debug\Csharp DZ 4.pdb
+C:\Users\Hp\source\repos\Csharp DZ 4\Csharp DZ 4\obj\Debug\Csharp DZ 4.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\Csharp DZ 4\Csharp DZ 4\obj\Debug\Csharp DZ 4.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Csharp DZ 4\Csharp DZ 4\obj\Debug\Csharp DZ 4.exe
+C:\Users\Hp\source\repos\Csharp DZ 4\Csharp DZ 4\obj\Debug\Csharp DZ 4.pdb
